@@ -1,5 +1,6 @@
-
 public class FUCK {
 
-  System.out.println("ni shi shei !");
+	public static void main(String[] args) {
+
+	}
 }
